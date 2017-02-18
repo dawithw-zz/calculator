@@ -1,0 +1,13 @@
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\bin\Release\CalculatorApplication.exe.config
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\bin\Release\CalculatorApplication.exe
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\bin\Release\CalculatorApplication.pdb
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\MainWindow.g.cs
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\App.g.cs
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\CalculatorApplication_MarkupCompile.cache
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\CalculatorApplication_MarkupCompile.lref
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\MainWindow.baml
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\CalculatorApplication.g.resources
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\CalculatorApplication.Properties.Resources.resources
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\CalculatorApplication.csproj.GenerateResource.Cache
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\CalculatorApplication.exe
+C:\Users\Brick10\Documents\Visual Studio 2015\Projects\CalculatorConsole\CalculatorApplication\obj\Release\CalculatorApplication.pdb
